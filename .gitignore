@@ -2,7 +2,8 @@
 .Rhistory
 .RData
 .Rproj.user/
-*.Rproj
+# Note: *.Rproj is intentionally NOT excluded — this is a teaching example,
+# students need the .Rproj file so File → Open Project works on first try.
 
 # Quarto build artifacts
 .quarto/
