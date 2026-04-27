@@ -1,0 +1,14 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Quarto build artifacts
+.quarto/
+_freeze/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
